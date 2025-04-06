@@ -52,6 +52,11 @@ public class Basic {
 		System.out.println(actualAddress);
 		System.out.println(newAddress);
 		Assert.assertEquals(actualAddress, newAddress);
+		
+		System.out.println(response);
+		System.out.println(response);
+		System.out.println(response);
+		System.out.println(response);
 	}
 
 }
